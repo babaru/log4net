@@ -1,3 +1,13 @@
+NOTICE
+==============
+
+This is only a fork version from http://logging.apache.org/log4net with some necessary modification to let it work properly with .NET 4 client profile.
+
+Any help or information request, please still go to the project home page as below.
+
+Thanks.
+
+
 Project Status
 ==============
 
